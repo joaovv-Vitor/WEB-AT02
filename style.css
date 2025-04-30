@@ -40,12 +40,12 @@
   main {
     display: flex;
     flex-wrap: wrap;
-    margin: 20px 0;
+    margin: 25px 0;
   }
   
   article {
     flex: 3;
-    padding: 20px;
+    padding: 25px;
     background-color: white;
     margin-right: 20px;
     border-radius: 8px;
@@ -58,7 +58,7 @@
   }
   
   .data {
-    font-size: 0.9em;
+    font-size: 14px;
     color: gray;
   }
   
@@ -67,6 +67,7 @@
     padding: 20px;
     background-color: #eaeaea;
     border-radius: 8px;
+    margin: 10px 0;
   }
   
   footer {
